@@ -1,0 +1,41 @@
+*
+{
+	margin:0px;
+}
+
+header
+{
+  height:100px;
+  background-color:black;
+  color:white;	
+}
+header ul li{
+	display:inline-block;
+	margin-left:20px;
+}
+header ul li a{
+	color:white;
+	font-size:25px;
+	font-weight:bolder;
+}
+header .logo
+{
+	float:left;
+}
+
+header .menu
+{
+	float:right;
+	margin-right:50px;
+}
+
+section{
+	height:500px;
+	background-color:orange;
+	
+}
+footer{
+	height:100px;
+	background-color:black;
+	color:white;
+}
